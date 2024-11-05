@@ -2,7 +2,6 @@
 using namespace std;
 //build heap
 
-//heapify
 void heapify(vector<int>&arr,int i,int n){
     //i is 1 based indexing 
     // see for 11 based indexing and write accordingly
