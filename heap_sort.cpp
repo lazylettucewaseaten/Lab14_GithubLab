@@ -47,5 +47,4 @@ int main(){
 }
 //key changes :
 //this is just a comment added for a gitcheck
-//new change is thi
-//sdgsgsgsb:ws
+//neihello this isthe new chanew change is this
