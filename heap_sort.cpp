@@ -36,8 +36,6 @@ void heap_sort(vector<int>&arr){
             swap(arr[0],arr[i]);
             heapify(arr,0,i);
     }
-    // passed i to it as the reduced size 
-    // swapped the 0th element here
 }
 
 
@@ -52,6 +50,4 @@ int main(){
 }
 //key changes :
 //this is just a comment added for a gitcheck
-
-
-
+//new change is this
